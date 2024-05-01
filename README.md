@@ -11,4 +11,4 @@ Steps to perform the round trip:
 
 The number of queries needed to perform the round trip can be adjusted by changing the `ROUND_TRIP_LENGTH` variable.
 
-A backup of the exact data used for testing in the thesis *Performance and price comparison of three popular backend frameworks and the AWS serverless stack* is also available.
+A backup of the exact data used for testing in the thesis *Performance and price comparison of three popular backend frameworks and the AWS serverless stack* is also available. Note that the file is not in standard JSON format, but uses "JSON lines", a format where the JSON objects are separated by newlines.
